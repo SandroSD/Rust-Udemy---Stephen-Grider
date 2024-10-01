@@ -154,3 +154,16 @@ Given the ownership system, how do we write useful code?
 
 1. Manually move values back and forth between different owners.
 2. Use the borrowing system.
+
+---
+
+Rule 7:
+
+Some types of values are **copied** instead of moved
+
+- All numbers (examples: i32, u32, f32)
+- Char (single characters)
+- Tuples (if everything inside is copy-able)
+- Bool (true/false)
+- Arrays (if everything inside is copy-able)
+- References (both readable and writable)
