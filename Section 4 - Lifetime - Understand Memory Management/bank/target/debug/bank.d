@@ -1,0 +1,1 @@
+/Users/sandrosd/Desktop/Sandro/Rust-Udemy---Stephen-Grider/Section\ 4\ -\ Lifetime\ -\ Understand\ Memory\ Management/bank/target/debug/bank: /Users/sandrosd/Desktop/Sandro/Rust-Udemy---Stephen-Grider/Section\ 4\ -\ Lifetime\ -\ Understand\ Memory\ Management/bank/src/main.rs
